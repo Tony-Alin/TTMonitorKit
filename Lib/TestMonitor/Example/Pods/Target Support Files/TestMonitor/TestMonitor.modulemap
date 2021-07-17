@@ -1,6 +1,0 @@
-framework module TestMonitor {
-  umbrella header "TestMonitor-umbrella.h"
-
-  export *
-  module * { export * }
-}
