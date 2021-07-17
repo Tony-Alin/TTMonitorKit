@@ -1,0 +1,16 @@
+PODS:
+  - TestMonitor (0.1.0)
+
+DEPENDENCIES:
+  - TestMonitor (from `../`)
+
+EXTERNAL SOURCES:
+  TestMonitor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestMonitor: 6edacab374f46512a356d19d3752021b3c2d4eb1
+
+PODFILE CHECKSUM: b0176fc32d3ea2233910e50c68033c8011b6fa84
+
+COCOAPODS: 1.9.1

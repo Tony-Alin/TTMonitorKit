@@ -1,0 +1,22 @@
+{
+  "name": "TestMonitor",
+  "version": "0.1.0",
+  "summary": "A short description of TestMonitor.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Tony-Alin/TestMonitor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tony-Alin": "1248755269@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Tony-Alin/TestMonitor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestMonitor/Classes/**/*"
+}
